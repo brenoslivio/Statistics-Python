@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Statistics with Python</h3>
+  <h3 align="center">Statistics with Python (Under construction)</h3>
 
   <p align="center">
     Jupyter Notebooks for the study of Statistics using Python.
@@ -38,7 +38,11 @@ The main objective is to create Jupyter Notebooks to demonstrate a broad range o
 
 ### [Descriptive Analysis](https://nbviewer.jupyter.org/github/brenoslivio/Statistics-Python/blob/main/1-DescriptiveAnalysis/1_DescriptiveAnalysis.ipynb)
 
-BLABLABLABLA
+There are many ways to analyse data, but one of the most known methods in Statistics is probably descriptive analysis, which seeks to describe or summarize past and present data, helping to create accessible data insights. It's the field of Statistics that deals with the description and summarization of data. It will be given some practical examples of this kind of analysis using a dataset.
+
+### Probability theory
+
+### Statistical inference
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -65,4 +69,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* ROSS, S. M. Introductory Statistics. 4th Edition. Academic Press. February 2017
+* MAGALHÃES, M. N. Noções de Probabilidade e Estatística. 7th edition. Edusp. 2015.
