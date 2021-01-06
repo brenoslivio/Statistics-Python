@@ -40,7 +40,7 @@ The main objective is to create Jupyter Notebooks to demonstrate a broad range o
 
 There are many ways to analyse data, but one of the most known methods in Statistics is probably descriptive analysis, which seeks to describe or summarize past and present data, helping to create accessible data insights. It's the field of Statistics that deals with the description and summarization of data. It will be given some practical examples of this kind of analysis using a dataset.
 
-### Probability theory
+### [Probability theory](https://nbviewer.jupyter.org/github/brenoslivio/Statistics-Python/blob/main/2-ProbabilityTheory/2_ProbabilityTheory.ipynb#fundamental)
 
 ### Statistical inference
 
